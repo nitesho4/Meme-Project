@@ -1,2 +1,2 @@
 # Meme-Project
-Starting template for the meme project.
+Starting template for the meme project!
